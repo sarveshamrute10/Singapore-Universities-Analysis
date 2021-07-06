@@ -1,4 +1,5 @@
 # Singapore-Universities-Analysis
+This project has been deployed on <a href="https://sguniversities.shinyapps.io/singaporeuniversitiesanalysis/">Shinyapps.io</a></li>
 
 ## Description
 This project is aimed at providing visualizations & tables of employment and income in top universities of Singapore. Out of various features in dataset, I mostly selected two features: gross monthly income and full time employment rate, which we believe are to be of interest for most students. Users are able to check or compare gross monthly income and full time employment across different universities/programs/year.
